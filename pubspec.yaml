@@ -1,4 +1,4 @@
-name: apheria
+name: brittAdmin
 description: A new Flutter application.
 
 # The following defines the version and build number for your application.
@@ -11,7 +11,7 @@ description: A new Flutter application.
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 9.1.0
+version: 0.0.1
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -65,9 +65,7 @@ dev_dependencies:
     sdk: flutter
 
 
-flutter_native_splash:
-  image: images/favicon.png
-  color: "022699"
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -81,27 +79,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/
-    - assets/
-    - images/backgrounds/
-    - images/scenes/
-    - images/files/
-    - images/icons/
-
-
-    - images/files/apheriahq/
-    - images/files/blossom/
-    - images/files/cafe/
-    - images/files/clouds/
-    - images/files/deepsea/
-    - images/files/downtohell/
-    - images/files/ecoscene/
-    - images/files/et/
-    - images/files/flowergarden/
-    - images/files/hauntedhouse/
-    - images/files/jungle/
-    - images/files/jurassic/
-    - images/files/observatory/
+    
 
 
 
@@ -118,13 +96,7 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  fonts:
-    - family: apheriafont
-      fonts:
-        - asset: fonts/apheriafont.ttf
-    - family:  Apheriaicons
-      fonts:
-        - asset: fonts/Apheriaicons.ttf
+  
   #       - asset: fonts/Schyler-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
