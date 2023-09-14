@@ -97,7 +97,7 @@
         "client_info": {
           "mobilesdk_app_id": "1:1016775004127:android:bf1cee6f5675f67b3b3e6a",
           "android_client_info": {
-            "package_name": "uk.co.apheria.apheria"
+            "package_name": "britt.admin"
           }
         },
         "oauth_client": [

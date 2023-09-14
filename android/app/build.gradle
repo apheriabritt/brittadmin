@@ -51,11 +51,11 @@ android {
     
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "uk.co.apheria.apheria"
+        applicationId "britt.admin"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 162
-        versionName '12.1.2'
+        versionCode 1
+        versionName '0.0.1'
     }
 
    
